@@ -1,0 +1,2 @@
+curl -vv -X POST -H "Content-Type: application/json" --data '{"name":"hashuser", "value":"hashfuzzword"}' "http://localhost:9080/manny/data"
+curl -vv -X POST -H "Content-Type: application/json" --data '{"name":"rey", "value":"val"}' "http://localhost:9080/manny/data"
